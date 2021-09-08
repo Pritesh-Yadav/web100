@@ -1,2 +1,3 @@
-# web100
-web100 creating
+# GIT Tutorial
+
+Git tutorial details
